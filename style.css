@@ -1,0 +1,94 @@
+.bg-img {
+    width: 100%;
+    height: 100vh;
+}
+
+.text {
+    font-size: 14px;
+}
+
+.img-text {
+    top: 160px;
+}
+
+.s-img-text {
+    top: 170px;
+    font-size: 150px;
+}
+
+.s-m-img-text {
+    top: 210px;
+    font-size: 70px;
+}
+
+.t-img-text {
+    top: 350px;
+}
+
+.b-n-btn {
+    top: 400px;
+}
+
+.third-bg {
+    width: 100%;
+    height: auto;
+    position: relative;
+}
+
+.t-bg-text {
+    position: absolute;
+    top: 1750px;
+}
+
+.card-one {
+    width: 292px;
+    height: 380px;
+    top: 1950px;
+    border: 7px solid black;
+}
+
+.card-p-two {
+    top: 1950px;
+    left: 700px;
+
+}
+
+.card-p-three {
+    top: 1950px;
+    left: 1100px;
+}
+
+.s-btn {
+    top: 2500px;
+}
+
+/* footer */
+.footer {
+    width: 100%;
+    height: auto;
+    background-color: #57BBBF;
+}
+
+.inputs {
+    width: 352px;
+    height: 32px;
+}
+
+.inputs:focus {
+    outline: none;
+}
+
+textarea {
+    width: 352px;
+    height: 113px;
+}
+
+.bg-card {
+    width: 100%;
+    height: auto;
+    background-image: url(./bg.webp);
+}
+
+.left-sec {
+    padding: 0px 230px;
+}
